@@ -1,6 +1,5 @@
 Genio</br>
 진짜 나 io를 발견하는 AI 퍼스널 브랜딩 서비스
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=진짜+나+io를+발견하는+AI+퍼스널+브랜딩+서비스)](https://git.io/typing-svg)
 
 # 서비스 소개</br>
 <img width="1475" height="747" alt="image" src="https://github.com/user-attachments/assets/0ca14239-53f9-49b5-b6ae-9abe21fb36f8" />
