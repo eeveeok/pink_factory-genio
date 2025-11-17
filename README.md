@@ -1,6 +1,3 @@
-Genio</br>
-진짜 나 io를 발견하는 AI 퍼스널 브랜딩 서비스
-
 # 서비스 소개</br>
 <img width="1475" height="747" alt="image" src="https://github.com/user-attachments/assets/0ca14239-53f9-49b5-b6ae-9abe21fb36f8" />
 <img width="1475" height="750" alt="image" src="https://github.com/user-attachments/assets/e90f3d28-6223-48e1-81a6-4db7de2c7bb2" />
